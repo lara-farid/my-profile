@@ -1,0 +1,161 @@
+body{
+background-color: rgb(255,239,213);
+color: rgb(50,50,50);
+font-size: 18px
+
+}
+
+ <style type = "text/css">
+ 	a: link {color: #65350F;}
+ 	a: visited {color: #DBAD72;}
+
+ </style>
+
+
+
+h1 {
+	font-size: 40px;
+	font-family: Times, serif;
+	text-align: center;
+	background-color: #DBAD72
+	color: white;
+
+}
+
+
+h3 {
+	color: 50,50,50;
+	font-family: Ranchers, cursive;
+	font-weight: 800;
+	margin-left:40px;
+  	  margin-right:40px;
+      margin: auto;
+      text-align: center;
+      text-decoration: underline;
+
+}
+
+
+a {color: 30,30,30;
+}
+
+a: hover {color: pink;}
+
+#profile
+	{width: 150px;
+		border-radius: 50%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 18%;
+	}
+
+
+#about
+	{text-align: center;
+	}
+
+p{
+	text-align: center;
+	display:inline-block;
+	display: table;
+      margin: auto;
+      border-bottom:2px dotted;
+  	padding:25px;
+
+}
+
+div{
+	text-align: center;
+	font-size: 18px;
+}
+
+.container {
+	width:700px;
+	margin: 40px auto;
+}
+
+@media (max-width: 760px) {
+	.container{
+		width:600px;
+	}
+}
+
+@media (max-width: 600px) {
+	.container{
+		width:500px;
+	}
+}
+
+@media (max-width: 500px) {
+	.container{
+		width:400px;
+	}
+}
+
+.list-inline {
+
+	list-style: none;
+	padding-left: 0px
+	text: middle;
+	font-size: 30px;
+}
+
+.list-inline > li {
+	display: all;
+	padding: 400px 50px auto;
+	text-align: middle;
+	margin-left: 400px auto
+	 box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s
+  font-size: 200px;
+
+}
+
+.list-inline: hover {box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);}
+
+}
+
+<a href="list-inline" align="middle">
+
+.links {
+	font-size: 40px
+}
+
+
+
+.header {
+
+	height: 30%;
+	background-color: #DBAD72
+	color: white;
+	text-align: center;
+}
+ 
+ .container {
+ 	width: 1000px;
+ 	margin: 40px auto;
+ }
+
+ .card-white{
+ 	background-color: white;
+ 	padding:40px;
+ 	box-shadow: 0px 10px 30px rgba(0,0,0,0.3)
+ 	border-radius: 4px;
+ }
+
+
+
+
+
+
+/*Custom design */
+
+
+
+
+
+
+
+
+
